@@ -2,7 +2,7 @@ import random
 import string
 
 
-# print("Welcome to the password generator")
+print("Welcome to the password generator")
 
 
 def generator():
